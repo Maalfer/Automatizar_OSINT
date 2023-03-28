@@ -1,0 +1,6 @@
+Aquí es necesario pegar cada una de las direcciones IP de la siguiente forma:
+
+ejemplo1
+ejemplo2
+ejemplo3
+etc...
