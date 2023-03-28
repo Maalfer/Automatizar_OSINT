@@ -7,7 +7,7 @@ from colorama import Fore, Style
 documento = open('direcciones_ip.txt','r')
 documento = documento.read().split('\n')
 
-eleccion = input(Fore.GREEN + "Escribe el nombre de la herramienta que quieras utilizar para analizar las direcciones IP: " + Fore.YELLOW +
+eleccion = input(Fore.GREEN + "Escribe el número de la herramienta que quieras utilizar para analizar las direcciones IP: " + Fore.YELLOW +
 """\n1 - Symantec
 2 - AbuseIP
 3 - Virustotal: \n""" + Style.RESET_ALL + "¿Cuál es tu elección? --> ")
